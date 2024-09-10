@@ -1,6 +1,6 @@
 # technical-test-tekkare
 
-Technical test written by Laurent Dubosq for Tekkcare "Front-End Developer" position on 7 September 2024.
+Technical test written by Laurent Dubosq for Tekkare "Front-End Developer" position on 7 September 2024.
 
 ## Recommended IDE Setup
 
@@ -8,6 +8,18 @@ Technical test written by Laurent Dubosq for Tekkcare "Front-End Developer" posi
 [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## Front-end Stack
+
+vue, sass, vite, vue-chartjs, charts.js, git.
+
+## Vue.js writing environment
+
+composition API + SFC
+
+## Design System Icon
+
+Material Symbols
 
 ## Development Principles
 

@@ -1,59 +1,57 @@
-[
-  {
-    "name": "Saint-Jean Hospital",
-    "location": "Paris, France",
-    "departmentsMonthlyPerformance": [
-      {
-        "department": "Emergency",
-        "monthlyPerformance" : [
-          { "month": "Sep", "year": 2023, "totalPatients": 1050, "totalTreatments": 760, "totalTreatmentsSuccess": 810, "totalHospitalizations": 190, "totalHospitalizationsSuccess": 250 },
-          { "month": "Oct", "year": 2023, "totalPatients": 1040, "totalTreatments": 750, "totalTreatmentsSuccess": 810, "totalHospitalizations": 180, "totalHospitalizationsSuccess": 250 },
-          { "month": "Nov", "year": 2023, "totalPatients": 1030, "totalTreatments": 740, "totalTreatmentsSuccess": 810, "totalHospitalizations": 170, "totalHospitalizationsSuccess": 250 },
-          { "month": "Dec", "year": 2023, "totalPatients": 1020, "totalTreatments": 730, "totalTreatmentsSuccess": 810, "totalHospitalizations": 160, "totalHospitalizationsSuccess": 250 },
-          { "month": "Jan", "year": 2024, "totalPatients": 1010, "totalTreatments": 720, "totalTreatmentsSuccess": 810, "totalHospitalizations": 150, "totalHospitalizationsSuccess": 250 },
-          { "month": "Feb", "year": 2024, "totalPatients": 1000, "totalTreatments": 710, "totalTreatmentsSuccess": 810, "totalHospitalizations": 140, "totalHospitalizationsSuccess": 250 },
-          { "month": "Mar", "year": 2024, "totalPatients": 990, "totalTreatments": 700, "totalTreatmentsSuccess": 810, "totalHospitalizations": 130, "totalHospitalizationsSuccess": 250 },
-          { "month": "Apr", "year": 2024, "totalPatients": 980, "totalTreatments": 690, "totalTreatmentsSuccess": 810, "totalHospitalizations": 120, "totalHospitalizationsSuccess": 250 },
-          { "month": "May", "year": 2024, "totalPatients": 970, "totalTreatments": 680, "totalTreatmentsSuccess": 810, "totalHospitalizations": 110, "totalHospitalizationsSuccess": 250 },
-          { "month": "Jun", "year": 2024, "totalPatients": 960, "totalTreatments": 670, "totalTreatmentsSuccess": 810, "totalHospitalizations": 100, "totalHospitalizationsSuccess": 250 },
-          { "month": "Jul", "year": 2024, "totalPatients": 950, "totalTreatments": 660, "totalTreatmentsSuccess": 810, "totalHospitalizations": 90, "totalHospitalizationsSuccess": 250 },
-          { "month": "Aug", "year": 2024, "totalPatients": 940, "totalTreatments": 650, "totalTreatmentsSuccess": 810, "totalHospitalizations": 80, "totalHospitalizationsSuccess": 250 }
-        ]
-      },
-      {
-        "department": "Cardiology",
-        "monthlyPerformance" : [
-          { "month": "Sep", "year": 2023, "totalPatients": 5250, "totalTreatments": 3800, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 950, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Oct", "year": 2023, "totalPatients": 5200, "totalTreatments": 3750, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 900, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Nov", "year": 2023, "totalPatients": 5150, "totalTreatments": 3700, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 850, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Dec", "year": 2023, "totalPatients": 5100, "totalTreatments": 3650, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 800, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Jan", "year": 2024, "totalPatients": 5050, "totalTreatments": 3600, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 750, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Feb", "year": 2024, "totalPatients": 5000, "totalTreatments": 3550, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 700, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Mar", "year": 2024, "totalPatients": 4950, "totalTreatments": 3500, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 650, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Apr", "year": 2024, "totalPatients": 4900, "totalTreatments": 3450, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 600, "totalHospitalizationsSuccess": 1250 },
-          { "month": "May", "year": 2024, "totalPatients": 4850, "totalTreatments": 3400, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 550, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Jun", "year": 2024, "totalPatients": 4800, "totalTreatments": 3350, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 500, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Jul", "year": 2024, "totalPatients": 4750, "totalTreatments": 3300, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 450, "totalHospitalizationsSuccess": 1250 },
-          { "month": "Aug", "year": 2024, "totalPatients": 4700, "totalTreatments": 3250, "totalTreatmentsSuccess": 4050, "totalHospitalizations": 400, "totalHospitalizationsSuccess": 1250 }
-        ]        
-      },
-      {
-        "department": "Neurology",
-        "monthlyPerformance" : [
-          { "month": "Sep", "year": 2023, "totalPatients": 4200, "totalTreatments": 3040, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 760, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Oct", "year": 2023, "totalPatients": 4160, "totalTreatments": 3000, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 720, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Nov", "year": 2023, "totalPatients": 4120, "totalTreatments": 2960, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 680, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Dec", "year": 2023, "totalPatients": 4080, "totalTreatments": 2920, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 640, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Jan", "year": 2024, "totalPatients": 4040, "totalTreatments": 2880, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 600, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Feb", "year": 2024, "totalPatients": 4000, "totalTreatments": 2840, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 560, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Mar", "year": 2024, "totalPatients": 3960, "totalTreatments": 2800, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 520, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Apr", "year": 2024, "totalPatients": 3920, "totalTreatments": 2760, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 480, "totalHospitalizationsSuccess": 1000 },
-          { "month": "May", "year": 2024, "totalPatients": 3880, "totalTreatments": 2720, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 440, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Jun", "year": 2024, "totalPatients": 3840, "totalTreatments": 2680, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 400, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Jul", "year": 2024, "totalPatients": 3800, "totalTreatments": 2640, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 360, "totalHospitalizationsSuccess": 1000 },
-          { "month": "Aug", "year": 2024, "totalPatients": 3760, "totalTreatments": 2600, "totalTreatmentsSuccess": 3240, "totalHospitalizations": 320, "totalHospitalizationsSuccess": 1000 }
-        ]             
-      }
-    ]
-  }
-]
+{
+  "name": "Saint-Jean Hospital",
+  "location": "Paris, France",
+  "departmentsMonthlyPerformance": [
+    {
+      "department": "Emergency",
+      "monthlyPerformance": [
+        { "month": "Sep", "year": 2023, "totalPatients": 1050, "totalTreatments": 760, "totalTreatmentsSuccess": 708, "totalHospitalizations": 190, "totalHospitalizationsSuccess": 180 },
+        { "month": "Oct", "year": 2023, "totalPatients": 1040, "totalTreatments": 750, "totalTreatmentsSuccess": 712, "totalHospitalizations": 180, "totalHospitalizationsSuccess": 169 },
+        { "month": "Nov", "year": 2023, "totalPatients": 1030, "totalTreatments": 740, "totalTreatmentsSuccess": 670, "totalHospitalizations": 170, "totalHospitalizationsSuccess": 160 },
+        { "month": "Dec", "year": 2023, "totalPatients": 1020, "totalTreatments": 730, "totalTreatmentsSuccess": 709, "totalHospitalizations": 160, "totalHospitalizationsSuccess": 153 },
+        { "month": "Jan", "year": 2024, "totalPatients": 1010, "totalTreatments": 720, "totalTreatmentsSuccess": 665, "totalHospitalizations": 150, "totalHospitalizationsSuccess": 146 },
+        { "month": "Feb", "year": 2024, "totalPatients": 1000, "totalTreatments": 710, "totalTreatmentsSuccess": 672, "totalHospitalizations": 140, "totalHospitalizationsSuccess": 136 },
+        { "month": "Mar", "year": 2024, "totalPatients": 990, "totalTreatments": 700, "totalTreatmentsSuccess": 681, "totalHospitalizations": 130, "totalHospitalizationsSuccess": 126 },
+        { "month": "Apr", "year": 2024, "totalPatients": 980, "totalTreatments": 690, "totalTreatmentsSuccess": 662, "totalHospitalizations": 120, "totalHospitalizationsSuccess": 115 },
+        { "month": "May", "year": 2024, "totalPatients": 970, "totalTreatments": 680, "totalTreatmentsSuccess": 623, "totalHospitalizations": 110, "totalHospitalizationsSuccess": 109 },
+        { "month": "Jun", "year": 2024, "totalPatients": 960, "totalTreatments": 670, "totalTreatmentsSuccess": 619, "totalHospitalizations": 100, "totalHospitalizationsSuccess": 92 },
+        { "month": "Jul", "year": 2024, "totalPatients": 950, "totalTreatments": 660, "totalTreatmentsSuccess": 621, "totalHospitalizations": 90, "totalHospitalizationsSuccess": 82 },
+        { "month": "Aug", "year": 2024, "totalPatients": 940, "totalTreatments": 650, "totalTreatmentsSuccess": 644, "totalHospitalizations": 80, "totalHospitalizationsSuccess": 75 }
+      ]
+    },
+    {
+      "department": "Cardiology",
+      "monthlyPerformance": [
+        { "month": "Sep", "year": 2023, "totalPatients": 5250, "totalTreatments": 3800, "totalTreatmentsSuccess": 3572, "totalHospitalizations": 950, "totalHospitalizationsSuccess": 875 },
+        { "month": "Oct", "year": 2023, "totalPatients": 5200, "totalTreatments": 3750, "totalTreatmentsSuccess": 3622, "totalHospitalizations": 900, "totalHospitalizationsSuccess": 832 },
+        { "month": "Nov", "year": 2023, "totalPatients": 5150, "totalTreatments": 3700, "totalTreatmentsSuccess": 3505, "totalHospitalizations": 850, "totalHospitalizationsSuccess": 783 },
+        { "month": "Dec", "year": 2023, "totalPatients": 5100, "totalTreatments": 3650, "totalTreatmentsSuccess": 3487, "totalHospitalizations": 800, "totalHospitalizationsSuccess": 775 },
+        { "month": "Jan", "year": 2024, "totalPatients": 5050, "totalTreatments": 3600, "totalTreatmentsSuccess": 3440, "totalHospitalizations": 750, "totalHospitalizationsSuccess": 731 },
+        { "month": "Feb", "year": 2024, "totalPatients": 5000, "totalTreatments": 3550, "totalTreatmentsSuccess": 3425, "totalHospitalizations": 700, "totalHospitalizationsSuccess": 694 },
+        { "month": "Mar", "year": 2024, "totalPatients": 4950, "totalTreatments": 3500, "totalTreatmentsSuccess": 3320, "totalHospitalizations": 650, "totalHospitalizationsSuccess": 620 },
+        { "month": "Apr", "year": 2024, "totalPatients": 4900, "totalTreatments": 3450, "totalTreatmentsSuccess": 3150, "totalHospitalizations": 600, "totalHospitalizationsSuccess": 555 },
+        { "month": "May", "year": 2024, "totalPatients": 4850, "totalTreatments": 3400, "totalTreatmentsSuccess": 3274, "totalHospitalizations": 550, "totalHospitalizationsSuccess": 543 },
+        { "month": "Jun", "year": 2024, "totalPatients": 4800, "totalTreatments": 3350, "totalTreatmentsSuccess": 3330, "totalHospitalizations": 500, "totalHospitalizationsSuccess": 466 },
+        { "month": "Jul", "year": 2024, "totalPatients": 4750, "totalTreatments": 3300, "totalTreatmentsSuccess": 3267, "totalHospitalizations": 450, "totalHospitalizationsSuccess": 428 },
+        { "month": "Aug", "year": 2024, "totalPatients": 4700, "totalTreatments": 3250, "totalTreatmentsSuccess": 3098, "totalHospitalizations": 400, "totalHospitalizationsSuccess": 379 }
+      ]
+    },
+    {
+      "department": "Neurology",
+      "monthlyPerformance": [
+        { "month": "Sep", "year": 2023, "totalPatients": 4200, "totalTreatments": 3040, "totalTreatmentsSuccess": 2975, "totalHospitalizations": 760, "totalHospitalizationsSuccess": 712 },
+        { "month": "Oct", "year": 2023, "totalPatients": 4160, "totalTreatments": 3000, "totalTreatmentsSuccess": 2791, "totalHospitalizations": 720, "totalHospitalizationsSuccess": 686 },
+        { "month": "Nov", "year": 2023, "totalPatients": 4120, "totalTreatments": 2960, "totalTreatmentsSuccess": 2752, "totalHospitalizations": 680, "totalHospitalizationsSuccess": 658 },
+        { "month": "Dec", "year": 2023, "totalPatients": 4080, "totalTreatments": 2920, "totalTreatmentsSuccess": 2850, "totalHospitalizations": 640, "totalHospitalizationsSuccess": 620 },
+        { "month": "Jan", "year": 2024, "totalPatients": 4040, "totalTreatments": 2880, "totalTreatmentsSuccess": 2640, "totalHospitalizations": 600, "totalHospitalizationsSuccess": 562 },
+        { "month": "Feb", "year": 2024, "totalPatients": 4000, "totalTreatments": 2840, "totalTreatmentsSuccess": 2700, "totalHospitalizations": 560, "totalHospitalizationsSuccess": 532 },
+        { "month": "Mar", "year": 2024, "totalPatients": 3960, "totalTreatments": 2800, "totalTreatmentsSuccess": 2636, "totalHospitalizations": 520, "totalHospitalizationsSuccess": 491 },
+        { "month": "Apr", "year": 2024, "totalPatients": 3920, "totalTreatments": 2760, "totalTreatmentsSuccess": 2592, "totalHospitalizations": 480, "totalHospitalizationsSuccess": 472 },
+        { "month": "May", "year": 2024, "totalPatients": 3880, "totalTreatments": 2720, "totalTreatmentsSuccess": 2521, "totalHospitalizations": 440, "totalHospitalizationsSuccess": 432 },
+        { "month": "Jun", "year": 2024, "totalPatients": 3840, "totalTreatments": 2680, "totalTreatmentsSuccess": 2548, "totalHospitalizations": 400, "totalHospitalizationsSuccess": 376 },
+        { "month": "Jul", "year": 2024, "totalPatients": 3800, "totalTreatments": 2640, "totalTreatmentsSuccess": 2524, "totalHospitalizations": 360, "totalHospitalizationsSuccess": 349 },
+        { "month": "Aug", "year": 2024, "totalPatients": 3760, "totalTreatments": 2600, "totalTreatmentsSuccess": 2384, "totalHospitalizations": 320, "totalHospitalizationsSuccess": 292 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+@use './reset';
+@use './constants' as *;
+
+body {
+    color: $TekkareColorBlack;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: $TekkareColorBodyBg;
+    font-size: 16px;
+    line-height: 1.563;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+h4 {
+    font-size: 1rem;
+}
+
+h5 {
+    font-size: 0.875rem;
+}
+
+select {
+    width: 100%;
+    background-color: white;
+    padding: 5px 30px 5px 10px;
+}
+
+.select-wrapper {
+    position: relative;
+    border: 1px solid $TekkareColorBorder;
+    font-size: 1.125rem;
+  }
+  
+.select-wrapper::after {
+    content: "▼";
+    font-size: 1rem;
+    top: 6px;
+    right: 10px;
+    position: absolute;
+}
+
+.card {
+    background-color: $TekkareColorElementsBg;
+    padding: 10px 20px 10px 15px;
+}
+
+/* Utility Classes */
+
+// Hide an element without affecting its accessibility
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+  }
