@@ -22,7 +22,7 @@ export const useFetch = async (url, options = {}) => {
 
 export const getData = async () => {
   const data = await useFetch(
-    "../../db.json" // This url should be replaced by an environment variable in not technical test situation
+    "https://laurentdubosq.github.io/technical-test-tekkare/assets/db.json" // This url should be replaced by an environment variable in not technical test situation
   );
   return data;
 };
